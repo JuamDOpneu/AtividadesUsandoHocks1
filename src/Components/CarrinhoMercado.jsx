@@ -23,7 +23,8 @@ function Carrinho() {
   }, [qtde]);
 
   return (
-    <div className="like">
+    <div className="card">
+        <h3>Carrinho Compras</h3>
       <p>Quantidade de itens: {qtde}</p>
       <p>Valor final: {valor}</p>
       <button onClick={() => alterarQtde("a")}>+</button>

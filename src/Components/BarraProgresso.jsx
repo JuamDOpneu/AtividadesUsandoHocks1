@@ -13,7 +13,7 @@ function BarraProgresso() {
   }
 
   return (
-    <div className="like">
+    <div className="card">
       <button onClick={() => mudaBarra(1)}>+10%</button>
       <button onClick={() => mudaBarra(2)}>-10%</button>
       <p>{progresso}%</p>

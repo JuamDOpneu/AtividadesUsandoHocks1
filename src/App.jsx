@@ -20,6 +20,7 @@ function App() {
       <Carrinho/>
       <ConversorTemp/>
       <BarraProgresso/>
+      <img className='card' src="0_eq-CTDGYEGgv6D4E.jpg" />
     </>
   )
 }

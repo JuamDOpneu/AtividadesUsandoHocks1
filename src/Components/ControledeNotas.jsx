@@ -21,7 +21,7 @@ function ControledeNotas() {
 
   return (
     <>
-      <div className="ControleNota">
+      <div className="card">
         <h2>Notas</h2>
 
         <h4>Informe seu Nome:</h4>

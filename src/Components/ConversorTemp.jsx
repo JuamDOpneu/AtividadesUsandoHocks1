@@ -15,8 +15,8 @@ function ConversorTemp() {
   }, [celsius]);
 
   return (
-    <div className="like">
-      <p>Conversor de Celsius para Fahrenheit</p>
+    <div className="card">
+      <h3>Conversor de Temperatura</h3>
       <p>Digite uma temperatura em Celsius:</p>
       <input onChange={pegarTemp} />
       <p>Temperatura em Fahrenheight: {fahr}</p>

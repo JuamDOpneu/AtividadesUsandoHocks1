@@ -1,4 +1,5 @@
 
+
 button {
   margin: 5px;
   padding: 8px 12px;
@@ -11,7 +12,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #454ba0;
 }
 
 p {
@@ -31,6 +32,6 @@ p {
 
 .barra-preenchida {
   height: 100%;
-  background: linear-gradient(90deg, #4caf50, #81c784);
+  background: linear-gradient(90deg, #051153, #7c0763);
   transition: width 0.3s ease-in-out;
 }

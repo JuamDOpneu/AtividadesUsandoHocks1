@@ -8,7 +8,7 @@ function Like() {
   return (
       <>
     
-        <div className='like'>
+        <div className='card'>
            
            <h2>Likes/Deslikes</h2>
     

@@ -10,7 +10,7 @@ function votacao() {
     return (
 
     <>
-        <div className='Votacao'>
+        <div className='card'>
          
          <h2>Votação</h2>
          

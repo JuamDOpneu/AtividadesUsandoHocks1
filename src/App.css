@@ -53,29 +53,17 @@
   margin-right: 10px;
   border: solid black 2px;
 }
-.ControleNota{
-  border: 2px solid black;
+
+.card{
+  border: 2px solid rgb(136, 136, 136);
   margin-top: 20px;
   padding: 20px;
   border-radius: 10px;
-  background-color: #2e2a2a;
-}
-.like{
-  border: 2px solid black;
-  margin-top: 20px;
-  padding: 20px;
-  border-radius: 10px;
-  background-color: #2e2a2a;
+  background-color: #424242;
+  color:white
 
 }
-.Votacao{
-  border: 2px solid black;
-  margin-top: 20px;
-  padding: 20px;
-  border-radius: 10px;
-  background-color: #2e2a2a;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 .A{
   color: white;
   background-color: #2d682d;
@@ -96,13 +84,13 @@
 }
 .PNome{
   color: white;
-  background-color: #000000;
+  background-color: #3c3eb9;
   border-radius: 7px;
   margin-left: 10px;
 }
 .MNota{
   color: rgb(255, 255, 255);
-  background-color: #000000;
+  background-color: #3c3eb9;
   border-radius: 7px;
   margin-left: 10px ;
 }
